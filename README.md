@@ -1,10 +1,6 @@
 # Spider Monke
 ## Pre-reqs
-* `pip3 install autopep8`
-* `pip3 install imutils`
-* `pip3 install opencv-python`
-* `pip3 install numpy`
-* `pip3 install mss`
+* `pip3 install -r requirements.txt`
 
 ## Before Committing
 * `autopep8 --in-place --aggressive --aggressive <file_name>`

@@ -1,0 +1,6 @@
+autopep8
+imutils
+opencv-python
+numpy
+mss
+pynput
